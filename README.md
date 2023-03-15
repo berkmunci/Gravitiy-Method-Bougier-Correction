@@ -1,4 +1,4 @@
-# Gravitiy Method Bougier Correction
+# Gravity Method Bougier Correction
 ## Project Target:
 In gravity method which is a geophysical survey, obtain of bougier anomaly data from raw gravity data with helping of correction operations.
 ## Required Data for satisfy project target: 
